@@ -1,0 +1,40 @@
+/* Tracking page styling */
+.tracking-container {
+    padding: 60px 20px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .status-card {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .status-card h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .status-card .progress-bar {
+    background-color: #ddd;
+    width: 100%;
+    height: 10px;
+    border-radius: 5px;
+    margin: 20px 0;
+  }
+  
+  .status-card .progress {
+    background-color: #3498db;
+    height: 100%;
+    border-radius: 5px;
+  }
+  
+  .status-card p {
+    font-size: 18px;
+    color: #555;
+  }
+  

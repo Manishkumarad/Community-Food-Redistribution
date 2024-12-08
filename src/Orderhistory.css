@@ -1,0 +1,42 @@
+/* Order History Styling */
+.order-history-container {
+    padding: 60px 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  .order-history-container h2 {
+    margin-bottom: 40px;
+    color: #3498db;
+  }
+  
+  .order-table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-radius: 8px;
+  }
+  
+  .order-table th,
+  .order-table td {
+    padding: 15px;
+    border: 1px solid #ddd;
+  }
+  
+  .order-table th {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  .order-table td {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .order-table .delivered {
+    color: #27ae60;
+  }
+  
+  .order-table .in-progress {
+    color: #f39c12;
+  }
+  
